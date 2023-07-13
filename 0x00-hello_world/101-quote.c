@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
-* main - Entry point
+* main - Entry point for grammar using the main void
 *
 * Return: Always 1 (Success)
 */
